@@ -1,7 +1,7 @@
 
 # Divsargun Kaur
 
-**Author | Engineering Student | AI & Technology Enthusiast**
+Author · Engineering Student · AI & Technology Enthusiast
 
 I work at the intersection of writing, systems thinking, and technology.
 My work spans published books, research-driven writing, and technical
