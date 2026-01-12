@@ -1,6 +1,3 @@
----
-title: Divsargun Kaur
----
 
 # Divsargun Kaur
 
